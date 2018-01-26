@@ -1,0 +1,16 @@
+{
+  "name": "devops_platzi",
+  "version": "1.0.0",
+  "description": "ejercicio 1 de curso de devops platzi",
+  "main": "server.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "dejuata",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.2",
+    "mocha": "^5.0.0",
+    "supertest": "^3.0.0"
+  }
+}
